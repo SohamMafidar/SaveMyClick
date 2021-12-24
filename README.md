@@ -1,6 +1,6 @@
 # SaveMyClick
 
-Register and Login to Upload your photos. Categorize them and if the photos become to many filter them by categories you created.
+Register and Login to Upload your photos. Categorize them and if the photos become too many, filter them by categories you created.
 
 # Navigation Guide
 
